@@ -1,0 +1,9 @@
+body {
+  font-family: system-ui, sans-serif;
+  text-align: center;
+  margin-top: 20vh;
+}
+
+a {
+  margin: 0 0.5rem;
+}
